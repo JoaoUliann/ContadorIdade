@@ -49,3 +49,13 @@ footer{
     justify-content: center;
     gap: 20px;
 }
+#nome{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 25%;
+    color: white;
+    text-decoration: none;
+    border: 2px solid black ;
+    border-radius: 10px;
+}
